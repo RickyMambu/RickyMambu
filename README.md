@@ -96,12 +96,16 @@ I'm a passionate **Data Scientist and AI/ML Engineer** with several hands-on exp
 ### **Glaucoma Detection**
 > Flask-based web application that uses a Convolutional Neural Network (CNN) model to detect glaucoma from eye images. It integrates Google Gemini API to generate human-readable explanations of predictions.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyMambu&repo=GlaucomaDetection&show_owner=True)](https://github.com/RickyMambu/GlaucomaDetection)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RickyMambu/GlaucomaDetection)
 
 ---
 
-### ** GymRat**
+### **GymRat**
 > A web-app for GymRat that contain critical information about diet and excercises.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RickyMambu&repo=GymRat&show_owner=True)](https://github.com/RickyMambu/GymRat)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RickyMambu/GymRat)
 
